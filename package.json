@@ -17,7 +17,7 @@
   "author": "Dika Ardnt.",
   "license": "MIT",
   "dependencies": {
-    "npm:@whiskeysockets/baileys@^6.6.0",
+    "@whiskeysockets/baileys": "baileys",
     "dotenv": "^16.3.1",
     "file-type": "latest",
     "fluent-ffmpeg": "^2.1.2",
